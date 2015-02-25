@@ -75,7 +75,7 @@
 
 // DHT 11 / sensor setting
 #define DHTPIN 4					// DHT data connection
-#define	DHTTYPE	DHT11					// type of sensor
+#define	DHTTYPE	DHT22					// type of sensor
 #define ACT1 9						// Actuator pin (LED or relay)
 #define BTN 8						// Button pin
 #define SERIAL_BAUD 115200
